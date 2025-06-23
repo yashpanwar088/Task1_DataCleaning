@@ -1,0 +1,101 @@
+Customer ID,Name,Gender,Age,JoinDate,Country,Purchase Amount
+1007,Alice Smith,Male,45,"December 15, 2021",uk,100.5
+1015,Henry Jones,,NaN,2021-04-17,uk,300
+1008,Bob Hall,F,thirty,08th Jul 2021,UK,600
+1007,David Hall,,25,2021.05.02,usa,600
+1019,Grace Smith,female,41,2021-08-03,canada,600
+1011,Grace Jones,,,"March 29, 2021",canada,100.5
+1004,Grace Jones,,35,2021-12-26,usa,700.25
+1003,Alice Hall,Male,25,2021-05-30,uk,800
+1002,David Lee,F,,10/12/2021,United States,100.5
+1012,Eva Stone,male,41,2021-10-21,India,600
+1002,Charlie Smith,M,25,11-07-2021,uk,
+1001,Eva Jones,M,50,10th Nov 2021,India,600
+1012,Alice Brown,FEMALE,NaN,11-12-2021,uk,200
+1017,Charlie Hall,male,45,2021/02/28,India,200
+1010,Isaac Lee,male,25,2021-07-07,US,200
+1016,Judy Stone,female,29,28-09-21,U.K.,Four Hundred
+1015,Frank Hall,female,50,"February 20, 2021",uk,NaN
+1012,Alice Taylor,Male,NaN,24th Feb 2021,uk,300
+1020,Grace Smith,FEMALE,35,16-11-21,canada,NaN
+1003,Judy Brown,female,41,03/11/2021,U.K.,800
+1007,Frank Taylor,FEMALE,35,2021-01-21,CANADA,Four Hundred
+1009,Alice Green,Male,25,16-06-2021,uk,700.25
+1018,Frank Jones,M,25,2021/03/30,uk,NaN
+1014,David West,F,thirty,30-08-2021,India,200
+1009,Isaac Smith,F,50,2021/12/12,U.K.,NaN
+1002,Grace Smith,MALE,25,06/12/2021,US,
+1015,Frank Adams,,35,21/09/2021,india,
+1015,Judy Lee,female,25,2021-02-04,usa,500.75
+1014,David Hall,F,45,22-03-21,india,800
+1004,David Lee,male,41,19/02/2021,United States,800
+1008,Isaac Taylor,FEMALE,35,02th Jan 2021,canada,Four Hundred
+1006,Bob Smith,female,45,23-02-2021,U.K.,100.5
+1010,Isaac West,FEMALE,45,2021/09/17,United States,100.5
+1018,Eva Stone,F,,"August 06, 2021",U.K.,200
+1012,Henry Brown,female,50,2021-06-11,United States,NaN
+1010,Charlie Brown,,41,2021-09-27,UK,700.25
+1016,Henry Hall,female,35,"September 28, 2021",US,300
+1008,Bob Lee,female,,2021/08/03,United States,500.75
+1008,Frank Hall,female,35,01-08-2021,usa,Four Hundred
+1016,Bob Smith,female,NaN,25th Aug 2021,US,200
+1018,Frank Hall,Male,NaN,2021-02-22,usa,500.75
+1013,Eva West,female,,10/02/2021,CANADA,100.5
+1015,Alice Taylor,,50,2021/10/28,uk,800
+1001,Frank Green,FEMALE,45,11-12-2021,CANADA,100.5
+1007,Judy Jones,female,25,2021/01/09,CANADA,
+1001,Frank Hall,M,NaN,2021.05.16,India,Four Hundred
+1011,Alice Jones,FEMALE,35,22-03-21,U.K.,700.25
+1008,Henry Hall,male,45,12-06-2021,United States,500.75
+1003,Isaac Jones,male,,16/10/2021,India,300
+1005,Henry Lee,M,25,19-08-2021,United States,
+1009,Alice Jones,M,35,"January 28, 2021",US,NaN
+1007,Bob Stone,F,41,"July 20, 2021",usa,NaN
+1008,Bob Stone,,,"September 25, 2021",CANADA,500.75
+1002,Henry Adams,female,NaN,2021/02/02,canada,NaN
+1016,Judy Lee,FEMALE,,03/03/2021,India,NaN
+1005,Charlie Stone,M,41,09-04-21,uk,300
+1012,Bob Jones,FEMALE,29,2021-12-26,United States,200
+1003,Frank Stone,female,45,2021/08/15,United States,
+1005,Henry Hall,male,,11th May 2021,United States,100.5
+1001,David Jones,F,45,2021/01/05,india,100.5
+1014,Grace West,,35,25-12-2021,UK,500.75
+1009,Frank Smith,M,35,2021.07.26,canada,200
+1015,Charlie Taylor,Male,41,2021-12-12,canada,
+1010,Henry Stone,male,,28-06-2021,usa,100.5
+1007,Bob Lee,F,50,2021.08.29,US,Four Hundred
+1020,Bob Lee,,35,06/04/2021,CANADA,700.25
+1004,Bob Stone,M,thirty,10th Aug 2021,CANADA,600
+1005,Isaac Green,,41,"August 19, 2021",canada,600
+1013,Bob Smith,female,25,23-05-2021,U.K.,700.25
+1011,Charlie Jones,MALE,thirty,29/01/2021,usa,500.75
+1004,Isaac Jones,female,45,2021.01.13,india,200
+1007,Eva Stone,male,41,06/07/2021,canada,100.5
+1019,David Brown,Male,29,2021-03-27,canada,600
+1002,David Jones,Male,NaN,2021.06.19,US,300
+1013,Eva Hall,FEMALE,45,2021.03.03,india,600
+1006,Alice West,M,thirty,2021-10-11,India,300
+1012,Henry Jones,female,25,2021-02-13,India,700.25
+1020,David Adams,FEMALE,45,2021.10.13,usa,
+1011,Bob Hall,male,41,08-05-21,uk,600
+1007,Bob Jones,FEMALE,25,2021.07.09,United States,Four Hundred
+1001,Bob Smith,Male,25,"October 10, 2021",US,600
+1020,Frank Taylor,male,50,21th Aug 2021,U.K.,
+1003,Henry Taylor,F,45,25-12-21,UK,500.75
+1006,Isaac Smith,M,NaN,17th May 2021,india,
+1005,Henry West,Male,45,13th Aug 2021,usa,500.75
+1019,Grace Stone,Male,29,22/08/2021,U.K.,Four Hundred
+1012,Alice Lee,Male,,2021.06.01,US,300
+1015,Isaac Smith,Male,25,11/11/2021,canada,100.5
+1009,Grace Lee,,29,29-06-21,usa,Four Hundred
+1017,Bob Green,female,thirty,2021-11-14,India,Four Hundred
+1017,Grace Hall,,45,21-02-21,CANADA,Four Hundred
+1012,Bob West,M,thirty,22-10-2021,India,800
+1002,Eva Adams,FEMALE,50,23-04-2021,usa,NaN
+1005,Judy Hall,M,25,23/04/2021,United States,100.5
+1017,Isaac Taylor,FEMALE,NaN,06th Jul 2021,india,200
+1017,Alice Brown,,thirty,02-01-21,usa,800
+1002,Eva Green,M,,08/08/2021,India,NaN
+1005,David West,MALE,25,"August 12, 2021",india,100.5
+1001,David Lee,FEMALE,thirty,06th May 2021,usa,700.25
+1002,David Taylor,F,50,22-02-2021,U.K.,500.75
